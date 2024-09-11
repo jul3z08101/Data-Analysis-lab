@@ -18,7 +18,7 @@ This project consists of a simple analysis done on the maternal health data set 
 <h2>Walk-through:</h2>
 
 <p align="center">
-Here I am creating two additional features. I created the RiskNum columns to represent the risk levels as integers for more efficient statistical analysis. Sincere several ages were missing, I created a column for age groups to get a better representation of the data.: <br/>
+Here I am creating two additional features. I created the RiskNum columns to represent the risk levels as integers for more efficient statistical analysis. Since several ages were missing, I created a column for age groups to get a better representation of the data.: <br/>
 <img src="https://i.imgur.com/yKtxUTb.png" height="80%" width="80%" alt="Featured Engineering"/>
 <br />
 <br />
